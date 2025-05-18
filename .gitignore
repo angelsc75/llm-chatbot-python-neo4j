@@ -2,6 +2,7 @@ __pycache__
 .streamlit/secrets.toml
 .env
 .venv
+venv/
 .DS_Store
 .vscode
 .pytest_cache
